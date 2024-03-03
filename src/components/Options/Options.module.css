@@ -1,0 +1,47 @@
+/* .goodBtn {
+    background-color: rgb(158, 244, 158);
+}
+
+.goodBtn:hover,
+.goodBtn:focus {
+background-color: rgb(88, 244, 88);
+}
+
+.neutralBtn {
+background-color: plum;
+}
+
+.neutralBtn:hover,
+.neutralBtn:focus {
+background-color: rgb(237, 51, 237);
+}
+
+.badBtn {
+    background-color: rgb(26, 192, 237);
+}
+
+.badBtn:hover,
+.badBtn:focus {
+   background-color: rgb(14, 143, 241); 
+} 
+
+.resetBtn {
+    background-color: rgb(251, 110, 161);
+}
+
+.resetBtn:hover,
+.resetBtn:focus {
+    background-color: rgb(252, 71, 137);
+} */
+
+.optionWrapper {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.valueBtnWrapper {
+    display: flex;
+    gap: 8px;
+}
+
